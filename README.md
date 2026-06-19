@@ -30,11 +30,164 @@ class BhavikMalik:
     goal = "Build internship-ready, real-world AI and software projects"
 ```
 
-I like building projects that are not just tutorial clones — things with real business logic, ML pipelines, dashboards, retrieval systems, and usable frontend/backend flows.
+I like building projects that are not just tutorial clones but things with real business logic, ML pipelines, dashboards, retrieval systems, and usable frontend/backend flows.
 
 ---
 
-## 🚀 Featured Projects
+### Quick Areas
+
+`ML Systems` · `Document Intelligence` · `Dashboards` · `Full-Stack Products` · `Mobile Apps` · `Freelance MVPs`
+
+## 🧩 What I Build
+
+I work across ML, full-stack products, dashboards, document intelligence, and freelance MVPs.
+
+<details open>
+<summary><b>🤖 Machine Learning Systems</b></summary>
+
+<br/>
+
+I build ML projects around real datasets, feature engineering, model comparison, and business interpretation.
+
+**Examples of work:**
+
+* Customer retention prediction
+* Churn classification
+* CLV modeling
+* Customer segmentation
+* Behavioral analytics
+* Model tuning and evaluation
+
+**Related project:**
+[Online Retail Customer Intelligence](https://github.com/bhavikk10/online_retail)
+
+</details>
+
+<details>
+<summary><b>📄 Document Intelligence</b></summary>
+
+<br/>
+
+I build systems that extract, search, and summarize information from documents.
+
+**Examples of work:**
+
+* PDF parsing
+* Text extraction
+* BM25 search
+* Embeddings-based retrieval
+* Semantic search
+* Reranking
+* Extractive summarization
+
+**Related project:**
+[PDF Intelligence Hub](https://github.com/bhavikk10/pdf_extractor)
+
+</details>
+
+<details>
+<summary><b>📊 Analytics Dashboards</b></summary>
+
+<br/>
+
+I build dashboards that turn raw operational or business data into useful visual insights.
+
+**Examples of work:**
+
+* KPI dashboards
+* Investor/project analytics
+* SAP-style reporting dashboards
+* Sales, inventory, production, and vendor analytics
+* Charts and report-oriented UI flows
+
+**Related projects:**
+
+* [SAP Analytics Dashboard](https://github.com/bhavikk10/sapdash)
+* [InvestorIQ](https://github.com/bhavikk10/InvestorIQ)
+
+</details>
+
+<details>
+<summary><b>🌐 Full-Stack Products</b></summary>
+
+<br/>
+
+I build web products with frontend, backend, auth, routing, and real user flows.
+
+**Examples of work:**
+
+* React / Next.js apps
+* FastAPI backends
+* Supabase authentication
+* E-commerce flows
+* Marketplace-style UI
+* Admin dashboards
+* API-connected frontend/backend systems
+
+**Related projects:**
+
+* [AveoEarth](https://github.com/bhavikk10/aveoearthdevs)
+* [Shukrana Web](https://github.com/bhavikk10/shukrana_web)
+* [Vastukriti Web](https://github.com/bhavikk10/vastukriti_web)
+
+</details>
+
+<details>
+<summary><b>📱 Mobile App MVPs</b></summary>
+
+<br/>
+
+I build Flutter mobile app prototypes with real app flows and client-style screens.
+
+**Examples of work:**
+
+* Login and onboarding flows
+* Home service booking flows
+* Social-commerce marketplace flows
+* Product listing screens
+* Chat screens
+* Profile and account sections
+* Subscription/plan screens
+
+**Related projects:**
+
+* [HomeService](https://github.com/bhavikk10/homeservice)
+* [MyDipSquad](https://github.com/bhavikk10/dipdropsquad)
+
+</details>
+
+<details>
+<summary><b>💼 Freelance / Client Work</b></summary>
+
+<br/>
+
+I have worked on freelance-style projects and startup MVPs across websites, dashboards, and mobile apps.
+
+**Examples of client-style work:**
+
+* Luxury fashion e-commerce website
+* Architecture/interior design portfolio website
+* Home service startup mobile app MVP
+* Social-commerce marketplace prototype
+* Investor/project analytics dashboard
+* Crypto trading dashboard MVP
+
+Most public client/freelance repositories use demo-safe content, placeholder images, or sanitized data to protect private business details while still showing the app structure and implementation quality.
+
+**Related projects:**
+
+* [Shukrana Web](https://github.com/bhavikk10/shukrana_web)
+* [Vastukriti Web](https://github.com/bhavikk10/vastukriti_web)
+* [HomeService](https://github.com/bhavikk10/homeservice)
+* [MyDipSquad](https://github.com/bhavikk10/dipdropsquad)
+* [Crypto Trading Bot Dashboard](https://github.com/bhavikk10/crypto-trading-bot)
+
+</details>
+
+
+---
+
+## 🚀 Some of my Projects
 
 <table>
 <tr>
@@ -98,6 +251,37 @@ Sustainable e-commerce platform with modern frontend, auth, categories, and prod
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Shukrana Web
+
+Luxury ethnicwear e-commerce website built as a freelance project with product browsing, collection pages, brand storytelling, and checkout-oriented flows.
+
+**Core ideas:**
+`React` `TypeScript` `Vite` `Stripe` `E-commerce` `Freelance`
+
+<a href="https://github.com/bhavikk10/shukrana_web">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavikk10&repo=shukrana_web&theme=tokyonight&hide_border=true" alt="Shukrana Web Repo Card" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 Crypto Trading Bot Dashboard
+
+Crypto market monitoring MVP with price data, technical indicators, sentiment analysis, trading signals, and ATR-based risk controls.
+
+**Core ideas:**
+`FastAPI` `React` `WebSockets` `Coinbase API` `RSI/ADX/ATR` `Risk Management`
+
+<a href="https://github.com/bhavikk10/crypto-trading-bot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhavikk10&repo=crypto-trading-bot&theme=tokyonight&hide_border=true" alt="Crypto Trading Bot Repo Card" />
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -122,6 +306,9 @@ Sustainable e-commerce platform with modern frontend, auth, categories, and prod
 
 ---
 
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -136,49 +323,14 @@ Sustainable e-commerce platform with modern frontend, auth, categories, and prod
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=bhavikk10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
 
 ---
 
-## 🏆 Trophies
+## 🔨 Currently Building
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhavikk10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## ⚡ What I'm Currently Focused On
-
-* Improving my **ML project portfolio** for internships
-* Building projects with stronger **README + demo + deployment quality**
-* Practicing **DSA, ML theory, and production-style engineering**
-* Turning academic ML work into clean, recruiter-readable project stories
-
----
-
-<details>
-<summary><b>📌 More about my project style</b></summary>
-
-<br/>
-
-I usually prefer projects that combine:
-
-* Real datasets
-* Strong preprocessing
-* Feature engineering
-* Model comparison
-* Explainability
-* Dashboard/frontend layer
-* Clean documentation
-* Business interpretation
-
-Basically: not just “model accuracy”, but a complete system/story around the model.
-
-</details>
-
+- **Online Retail Customer Intelligence** - retention prediction, CLV modeling, customer segmentation, and business-facing ML insights
+- **PDF Intelligence Hub** - hybrid document search using BM25, embeddings, reranking, and summarization
+- **Freelance Product Portfolio** - production-style websites and mobile apps with polished documentation
 ---
 
 <details>
@@ -193,6 +345,7 @@ Basically: not just “model accuracy”, but a complete system/story around the
 * Full-Stack AI Products
 * Dashboards and Business Intelligence
 * Applied AI for real-world workflows
+* Any AIML related research-work
 
 </details>
 
