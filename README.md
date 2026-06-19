@@ -2,7 +2,7 @@
 
 # Hey, I'm Bhavik Malik 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=AIML+Undergrad+%7C+ML+%2B+Full-Stack+Builder;I+build+ML+systems%2C+dashboards%2C+and+real-world+apps;Currently+leveling+up+in+AI%2C+DSA%2C+and+production+engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=AIML+Undergrad+%7C+ML+%2B+Full-Stack+Builder;I+build+ML+systems%2C+dashboards%2C+and+real-world+apps;Currently+leveling+up+in+AI%2C+DSA%2C+and+production+engg" alt="Typing SVG" />
 
 <br/>
 
